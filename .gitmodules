@@ -1,0 +1,6 @@
+[submodule "python/infojegyzet-py"]
+	path = python/infojegyzet-py
+	url = https://github.com/Legolaszstudio/infojegyzet-py
+[submodule "python/erettsegi-py"]
+	path = python/erettsegi-py
+	url = https://github.com/Legolaszstudio/erettsegi-py
